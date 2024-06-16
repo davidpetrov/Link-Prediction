@@ -1,0 +1,2 @@
+pykeen==1.10.2
+jupyterlab==4.2.1
