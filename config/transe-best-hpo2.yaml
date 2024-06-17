@@ -1,0 +1,23 @@
+type: baseline
+
+dataset: Hetionet
+
+experiment_name: 'TransE best parameters Early stopper 0.002'
+model:
+  name: TransE
+  embedding_dim: 300
+
+optimizer:
+  class: Adagrad
+  lr: 0.02
+
+train:
+  loss_function: MarginRankingLoss
+  num_epoch: 500
+  num_negative: 61
+  create_inverse: False
+
+save:
+  path: results/baseline/transe_hetionet_best_hpo2
+
+seed: 84
