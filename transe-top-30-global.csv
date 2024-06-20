@@ -1,0 +1,31 @@
+head_label,relation_label,tail_label,score
+Molecular Function::GO:0016462,DrD,Molecular Function::GO:0016818,-9.249692
+Biological Process::GO:0048858,DrD,Biological Process::GO:0032990,-9.353173
+Cellular Component::GO:0005789,DrD,Cellular Component::GO:0042175,-9.567289
+Biological Process::GO:0051707,DrD,Biological Process::GO:0009607,-9.605646
+Molecular Function::GO:0016818,CrC,Molecular Function::GO:0016462,-9.60879
+Biological Process::GO:0009607,CrC,Biological Process::GO:0051707,-9.609782
+Anatomy::UBERON:0001895,DrD,Anatomy::UBERON:0002028,-9.616606
+Anatomy::UBERON:0002028,DrD,Anatomy::UBERON:0001895,-9.666279
+Anatomy::UBERON:0001895,DrD,Anatomy::UBERON:0002298,-9.675369
+Biological Process::GO:0007283,DrD,Biological Process::GO:0048232,-9.736124
+Molecular Function::GO:0016818,DrD,Molecular Function::GO:0016462,-9.747831
+Molecular Function::GO:0016462,DrD,Molecular Function::GO:0017111,-9.749484
+Molecular Function::GO:0016818,DrD,Molecular Function::GO:0016817,-9.764088
+Anatomy::UBERON:0002028,DrD,Anatomy::UBERON:0002298,-9.814556
+Biological Process::GO:0051707,DrD,Biological Process::GO:0043207,-9.821548
+Anatomy::UBERON:0002298,DrD,Anatomy::UBERON:0001895,-9.837687
+Biological Process::GO:0048858,CrC,Biological Process::GO:0032990,-9.868441
+Biological Process::GO:0009607,DrD,Biological Process::GO:0051707,-9.869799
+Biological Process::GO:0019953,DrD,Biological Process::GO:0007276,-9.870377
+Molecular Function::GO:0016818,DrD,Molecular Function::GO:0017111,-9.896002
+Biological Process::GO:0032990,DrD,Biological Process::GO:0048858,-9.897465
+Anatomy::UBERON:0001895,CrC,Anatomy::UBERON:0002298,-9.910485
+Biological Process::GO:0044419,DrD,Biological Process::GO:0016032,-9.911998
+Molecular Function::GO:0016462,DrD,Molecular Function::GO:0016817,-9.925205
+Biological Process::GO:0043069,DrD,Biological Process::GO:0043066,-9.929808
+Molecular Function::GO:0016462,CrC,Molecular Function::GO:0016818,-9.952419
+Cellular Component::GO:0042175,DrD,Cellular Component::GO:0005789,-9.954401
+Anatomy::UBERON:0002298,DrD,Anatomy::UBERON:0002028,-9.979525
+Biological Process::GO:0016477,DrD,Biological Process::GO:0048870,-10.008942
+Biological Process::GO:0048609,DrD,Biological Process::GO:0032504,-10.019699
